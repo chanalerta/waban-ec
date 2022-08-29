@@ -40,8 +40,8 @@ banner_display()
 #
 #
 def program():
-    number = input("[+] Number: +91")
-    realnumber = "+91"+number
+    number = input("[+] Number: +593")
+    realnumber = "+593"+number
     check = number.isnumeric()
     lennber = len(number)
     if (check == True):
